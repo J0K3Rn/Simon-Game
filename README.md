@@ -8,7 +8,7 @@ Game Start:
 
 Game Running:
 
-![alt text](https://github.com/J0K3Rn/Simon-Game/blob/main/screenshots/game_Running.png?raw=true) 
+![alt text](https://github.com/J0K3Rn/Simon-Game/blob/main/screenshots/game_Playing.png?raw=true) 
 
 Game Over:
 
